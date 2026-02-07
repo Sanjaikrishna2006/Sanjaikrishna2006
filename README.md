@@ -1,26 +1,17 @@
-<!-- ===================== ONE PIECE HEADER ===================== -->
+<h1 align="center">Hi, I'm Sanjai Krishna 👋</h1>
+<h3 align="center">B.Tech IT Student | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=STRAWHAT%20DEVELOPER&fontSize=42&fontAlignY=38&color=gradient&animation=twinkling" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=26&duration=3500&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=Ore+wa+Sanjai+Krishna;B.Tech+IT+Student;Future+Software+Engineer;King+of+Code+Loading..." />
-</p>
-
-<p align="center">
-
+  <img src="https://readme-typing-svg.demolab.com/?lines=Code.+Build.+Improve.;Java+%7C+Problem+Solving+%7C+Projects;Learning+by+Doing&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🏴‍☠️ About Me (Straw Hat Arc)
-> “I don’t wanna conquer anything. I just wanna be a great engineer.”
-
-## Name: **Sanjai Krishna**  
-🎓 Role: **B.Tech IT Student**  
-☕ Power Type: **Java & Backend Logic**  
-🧠 Fighting Style: **Problem Solving & Clean Code**
+## 🚀 About Me
+🎓 B.Tech Information Technology student  
+💻 Passionate about **Java, backend logic & real-world projects**  
+🧠 Strong interest in **problem solving & clean code**  
+⚡ Believe in learning by **building, breaking & fixing**
 
 🌊 I believe in:
 - Growth through struggle  
