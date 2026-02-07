@@ -30,42 +30,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjaikrishna2006&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaikrishna2006&theme=tokyonight" height="165"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjai+Krishna;B.Tech+IT+Student;Java+%7C+Backend+Learner;Learning+by+Building+Projects"
+  />
 </p>
 
----
-
-## 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaikrishna2006&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjaikrishna2006&theme=darkhub&no-frame=true&row=1"/>
-</p>
-
----
-
-## 🔗 Connect With Me
-<p align="center">
-  <a href="https://github.com/Sanjaikrishna2006">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-coming_soon-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
----
-
-<p align="center">
-⚡ Focused on consistency. Growth > Perfection.
 </p>
 
