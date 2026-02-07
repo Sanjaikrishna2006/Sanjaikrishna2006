@@ -31,10 +31,10 @@
 ---
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sanjai+Krishna;B.Tech+IT+Student;Java+%7C+Backend+Learner;Learning+by+Building+Projects"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Sanjai%20Krishna&fontSize=40&fontAlignY=35&color=gradient&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student;Java+and+Backend+Focused;Building+Skills+for+Industry;Consistency+Over+Hype" />
 </p>
 
