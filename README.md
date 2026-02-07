@@ -30,11 +30,21 @@
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Sanjai%20Krishna&fontSize=40&fontAlignY=35&color=gradient&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=4000&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student;Java+and+Backend+Focused;Building+Skills+for+Industry;Consistency+Over+Hype" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4200&pause=1200&color=8B949E&center=true&vCenter=true&width=720&lines=Focused+on+Fundamentals;Building+Industry-Ready+Skills;Java+%7C+Backend+%7C+Problem+Solving;Progress+Over+Perfection"
+  />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" />
+</p>
+
+---
 
