@@ -56,23 +56,6 @@
 - VS Code  
 - Linux (Basics)
 
----
-
-## 🏆 Bounties & Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjaikrishna2006&theme=onedark&no-frame=true&row=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjaikrishna2006&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🧭 Journey Log (Stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjaikrishna2006&show_icons=true&theme=dark&hide_border=true" />
-</p>
 
 ---
 
