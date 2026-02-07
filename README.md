@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-☠️ ☠️ ☠️
+
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ## 🏴‍☠️ About Me (Straw Hat Arc)
 > “I don’t wanna conquer anything. I just wanna be a great engineer.”
 
-⚔️ Name: **Sanjai Krishna**  
+## Name: **Sanjai Krishna**  
 🎓 Role: **B.Tech IT Student**  
 ☕ Power Type: **Java & Backend Logic**  
 🧠 Fighting Style: **Problem Solving & Clean Code**
@@ -41,7 +41,7 @@
 
 ---
 
-## ⚔️ Power System (Skills)
+##  Power System (Skills)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,git,github,linux&theme=dark" />
 </p>
@@ -78,7 +78,7 @@
 
 ## 🎯 Final Goal (Pirate King Moment)
 👑 Become an **industry-ready software engineer**  
-⚔️ Master Java & backend systems  
+## Master Java & backend systems  
 🌍 Build real-world impactful projects  
 
 <p align="center">
