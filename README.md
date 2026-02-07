@@ -100,12 +100,11 @@
 ---
 
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/l0MYyDa8S9ghzNEtq/giphy.gif"
-    width="520"
-    alt="Thousand Sunny sailing on the sea"
+  <img 
+    src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif"
+    width="500"
+    alt="One Piece ship sailing"
   />
 </p>
-
 
 
