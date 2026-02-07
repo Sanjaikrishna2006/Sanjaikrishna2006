@@ -100,9 +100,10 @@
 ---
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    alt="sailing animation"
+  <img
+    src="https://media.giphy.com/media/l0MYyDa8S9ghzNEtq/giphy.gif"
+    width="520"
+    alt="Thousand Sunny sailing on the sea"
   />
 </p>
 
