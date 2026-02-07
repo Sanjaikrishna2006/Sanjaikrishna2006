@@ -98,13 +98,13 @@
 </p>
 
 ---
-
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif"
-    width="500"
-    alt="One Piece ship sailing"
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="sailing animation"
   />
+</p>
+
 </p>
 
 
